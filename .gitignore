@@ -1,0 +1,13 @@
+# Environments & Secrets
+.env
+*.env
+*.sqlite*
+cookie.txt
+tokens/
+*.log
+
+# OS & Temp
+Thumbs.db
+Desktop.ini
+.DS_Store
+node_modules/
